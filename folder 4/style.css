@@ -1,0 +1,26 @@
+body{
+  font-family:Arial;
+  background:#f4f4f4;
+  margin:0;
+}
+
+header{
+  background:#222;
+  color:white;
+  text-align:center;
+  padding:20px;
+}
+
+.courses{
+  display:flex;
+  gap:20px;
+  padding:20px;
+  flex-wrap:wrap;
+}
+
+.course-card{
+  background:white;
+  width:350px;
+  padding:20px;
+  border-radius:10px;
+}
